@@ -1,12 +1,16 @@
 {
-    "name": "waavi/sanitizer",
-    "description": "Data sanitizer and Laravel 7 form requests with input sanitation.",
-    "keywords": ["laravel", "sanitation", "input sanitation", "input sanitizer", "input", "transform input", "input filter"],
+    "name": "jsanbae/sanitizer",
+    "description": "Data sanitizer forked from Waavi/Sanitaize with support for Laravel 5 to 8. .",
+    "keywords": ["laravel", "sanitation", "input sanitation", "input sanitizer", "input", "transform input", "input filter", "waavi"],
     "license": "MIT",
     "authors": [{
         "name": "William Wallace San Paulo",
         "email": "info@waavi.com"
-    }],
+    },{
+        "name": "Javier Sanchez",
+        "email": "jsan5709@hotmail.com"
+    },
+        ],
     "require": {
         "illuminate/support": "~5.3|~6.0|~7.0|^8.0",
         "illuminate/validation": "~5.3|~6.0|~7.0|^8.0",
