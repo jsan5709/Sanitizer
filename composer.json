@@ -9,7 +9,7 @@
     },{
         "name": "Javier Sanchez",
         "email": "jsan5709@hotmail.com"
-    },
+    }
         ],
     "require": {
         "illuminate/support": "~5.3|~6.0|~7.0|^8.0",
